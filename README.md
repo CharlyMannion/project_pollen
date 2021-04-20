@@ -1,6 +1,6 @@
 # Project Pollen Backend
 
-This is the backend of our App for project pollen, built using Mongoose, Node.js and Express
+This is the backend of our App for project pollen It was built using Mongoose, Node.js and Express.
 
 View the website [here](https://projectpollen.netlify.app/)
 
