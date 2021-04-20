@@ -1,4 +1,5 @@
 const storiesRouter = require('express').Router();
+const { getStory, getStories} = require('../controllers/stories.controller');
 
 storiesRouter.route('/stories').get(getStories);
 

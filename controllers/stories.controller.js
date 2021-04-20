@@ -10,7 +10,7 @@ exports.getStory = (req, res, next) => {
         });
 }
 
-exports.getStory = (req, res, next) => {
+exports.getStories = (req, res, next) => {
     Story.fetchStories()
         .then(stories => {
             res.status(200).send(stories);
@@ -19,5 +19,7 @@ exports.getStory = (req, res, next) => {
             next(err);
         });
 }
+
+
 
 
