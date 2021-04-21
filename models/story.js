@@ -36,7 +36,7 @@ storySchema.statics.fetchStory = function(id) {
 }
 
 storySchema.statics.fetchStories = function() {
-    const stories = Story.find({}, (err, stories) => {
+    Story.find({}, (err, stories) => {
         if (!err) return stories;
         else console.log('Error: ' + err);
     });
