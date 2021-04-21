@@ -28,15 +28,15 @@ const storySchema = new mongoose.Schema({
     }
 });
 
-storySchema.methods.fetchStory = function(id) {
+storySchema.statics.fetchStory = function(id) {
     Story.findById(id, (err, story) => {
         if (!err) return story;
         else console.log('Error: ' + err);
     });
 }
 
-storySchema.methods.fetchStories = function() {
-    const stories = Story.find({}, (err, stories) => {
+storySchema.statics.fetchStories = function() {
+    Story.find({}, (err, stories) => {
         if (!err) return stories;
         else console.log('Error: ' + err);
     });
