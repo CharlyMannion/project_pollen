@@ -4,7 +4,7 @@ This is the backend of our App for project pollen It was built using Mongoose, N
 
 View the website [here](https://projectpollen.netlify.app/)
 
-Find the hosted back end [here](https://project-pollen-backend.herokuapp.com/)
+Find the hosted back end [here](https://project-pollen-backend.herokuapp.com/api/)
 
 See our front end repository [here](https://github.com/CharlyMannion/project-pollen-frontend)
 
