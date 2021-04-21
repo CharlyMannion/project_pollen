@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const storyRouter = require('./stories.router');
 
-router.use('/', storyRouter);
+router.use('/stories', storyRouter);
 
 router.get('/', (req, res) => {
     res.json({
