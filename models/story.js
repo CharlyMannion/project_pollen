@@ -29,6 +29,7 @@ const storySchema = new mongoose.Schema({
 });
 
 storySchema.statics.fetchStory = function fetchStory(id) {
+
     this.findById(id, (err, story) => {
         if (!err) return story;
         else console.log('Error: ' + err);
@@ -36,6 +37,7 @@ storySchema.statics.fetchStory = function fetchStory(id) {
 }
 
 storySchema.statics.fetchStories = function fetchStories() {
+
     this.find({}, (err, stories) => {
         if (!err) return stories;
         else console.log('Error: ' + err);
