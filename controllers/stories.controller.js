@@ -1,7 +1,8 @@
 const Story = require('../models/story');
 
 exports.getStory = (req, res, next) => {
-    Story.fetchStory(id)
+    console.log(req);
+    Story.fetchStory(req.params.id)
         .then(story => {
             res.status(200).send(story);
         })
