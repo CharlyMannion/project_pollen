@@ -10,6 +10,10 @@ See our front end repository [here](https://github.com/CharlyMannion/project-pol
 
 Check out the presentation slides [here](placeholder.com)
 
+Check out our Figma design booard [here](https://www.figma.com/file/Z5a8FZLqAGaUKTD1l6zGCG/Pollen?node-id=44%3A100)
+
+Find the Project Pollen Miro Board [here](https://miro.com/app/board/o9J_ki_ZpDo=/)
+
 ## Contributors
 * [Alex Hill](https://github.com/alexxmadeleine)
 * [Edwin Simpson](https://github.com/0cedwins)
@@ -133,6 +137,14 @@ npm test
 
 ## Diagrams
 
+### Wire Frames
+
+![Screenshot 2021-04-22 at 15 16 23](https://user-images.githubusercontent.com/28218869/115729990-cc5fc500-a37d-11eb-8a2c-5d9f041b34a9.png)
+
+
+
+![Screenshot 2021-04-22 at 15 16 48](https://user-images.githubusercontent.com/28218869/115729999-ce298880-a37d-11eb-9bf6-776b2a4cf374.png)
+
 ### Component Tree Diagram
 
 ![Screenshot 2021-04-20 at 13 19 50](https://user-images.githubusercontent.com/28218869/115394837-1fe5dd80-a1db-11eb-99c5-71cabfb8fa0b.png)
@@ -163,11 +175,30 @@ Madhura worked on the sliding bar for our Donation Component.
 
 After finishing up her beautiful designs for our landing page, Alex moved on to designing the story page.
 
+### Day 3: Thursday 22nd April 2021
+
+We started the day feeling happy with our progress, and confident that we'd reach our MVP and be able to move on to some 'nice to have features' such as the QR code.
+
+After finishing the designs, Alex started work on our presentation for Monday. 
+
+Madhura continued working on the sliding feature within the Donation Component.
+
+Edwin built out the Charity section, the Burger Menu, and defined some break points.
+
+Charly finished working on the Carousel Component, then moved on to styling the StoryArticle, StoryCard and AboutUs components.
+
 ## Challenges
+
+* We encountered a few small isues when hosting our backend, but these were resolved fairly quickly
 
 ## Successes
 
+* We had a really fun week building out our project. We set out with a clear vision of what we wanted to achieve, and how we would achieve it. Then we worked hard to get there
+* We loved using React for the frontend
+
 ## What we would do differently next time
+
+* We would write unit tests for the backend up front
 
 
 
