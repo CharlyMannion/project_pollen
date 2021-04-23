@@ -20,7 +20,13 @@ Find the Project Pollen Miro Board [here](https://miro.com/app/board/o9J_ki_ZpDo
 * [Madhura Bhujbal](https://github.com/madhurabhujbal)
 * [Charly Mannion](https://github.com/CharlyMannion)
 
-## Goals
+![Screenshot 2021-04-23 at 14 55 12](https://user-images.githubusercontent.com/28218869/115881835-10b59880-a444-11eb-8851-5b34e6bf99b2.png)
+
+## Mission & Goals
+
+### Build Week Mission
+
+![Screenshot 2021-04-23 at 14 55 02](https://user-images.githubusercontent.com/28218869/115881842-11e6c580-a444-11eb-9350-14e402e55306.png)
 
 ### Overarching Product Goal
 We defined our overarching goal for this product as: 
@@ -101,6 +107,10 @@ I want to see what each amount will get the charity
 
 Check out our trello board [here](https://trello.com/invite/b/spCisYKz/e01fd4436839d69c60583a025ae1bd2d/homelessness-project)
 
+## What Next?
+
+![image](https://user-images.githubusercontent.com/28218869/115881805-085d5d80-a444-11eb-8d63-671d1d20bdf3.png)
+
 ## Technologies Used
 * React
 * Javascript
@@ -128,13 +138,6 @@ code .
 npm i
 ```
 
-## Running Tests
-```
-npm test
-```
-
-## User Stories
-
 ## Diagrams
 
 ### Wire Frames
@@ -144,6 +147,10 @@ npm test
 
 
 ![Screenshot 2021-04-22 at 15 16 48](https://user-images.githubusercontent.com/28218869/115729999-ce298880-a37d-11eb-9bf6-776b2a4cf374.png)
+
+### App Snippets
+
+![Screenshot 2021-04-23 at 14 55 21](https://user-images.githubusercontent.com/28218869/115881832-0eebd500-a444-11eb-99fc-2c7815632eac.png)
 
 ### Component Tree Diagram
 
