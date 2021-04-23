@@ -229,7 +229,3 @@ After lunch, we had our Sprint Retro. Then we finished the day with a celebratio
 
 * We would write unit tests for the backend up front
 * We would have pre-agreed on CSS styling before embarking on the project
-
-
-
-
