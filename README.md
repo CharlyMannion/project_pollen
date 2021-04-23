@@ -187,9 +187,31 @@ Edwin built out the Charity section, the Burger Menu, and defined some break poi
 
 Charly finished working on the Carousel Component, then moved on to styling the StoryArticle, StoryCard and AboutUs components.
 
+### Day 4: Friday 23rd April 2021
+
+During our morning stand-up, we agreed that we would work on features until 3pm. This was to give us time to host the final version on Netlify and work on our presentation.
+
+Edwin implemented the Artist Components and a QR Scanner component.
+
+Charly re-worked the Story Page Component and added to the AboutUs component page, then redeployed the final build of the project
+
+Alex set up some analytics to track app usage, and continued working on our presentation.
+
+Madhura worked on making the Slider Component responsive. 
+
+### Day 5: Monday 26th April 2021
+
+Today was our final day of build week! In the morning, we practiced our presentation and fine-tuned the last few things in our project.
+
+At 11am, we presented our build week project to ANDi's from the clubs we will be joining (Murray, Sparck and Jemison).
+
+After lunch, we had our Sprint Retro. Then we finished the day with a celebration for all our hard work, and to bring our ANDuction to a close.
+
 ## Challenges
 
-* We encountered a few small isues when hosting our backend, but these were resolved fairly quickly
+* We encountered a few small isues when hosting our backend, which were tricky to de-bug
+* CSS styling took a lot longer than we anticipated
+* Picking up React as a new technology 
 
 ## Successes
 
@@ -199,6 +221,8 @@ Charly finished working on the Carousel Component, then moved on to styling the 
 ## What we would do differently next time
 
 * We would write unit tests for the backend up front
+* We would have pre-agreed on CSS styling before embarking on the project
+
 
 
 
